@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "722208733139",
+    "project_id": "project-8150577758174154170",
+    "storage_bucket": "project-8150577758174154170.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722208733139:android:798de2069b7f7a70bf6126",
+        "android_client_info": {
+          "package_name": "ittepic.edu.mx.dam_u3_practica2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9fDe8CNveO_eycSvD4cr2T5k9Y3xaOlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722208733139:android:362e69ec4828206cbf6126",
+        "android_client_info": {
+          "package_name": "ittepic.edu.mx.practica_persona"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9fDe8CNveO_eycSvD4cr2T5k9Y3xaOlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722208733139:android:88d2989c80add53ebf6126",
+        "android_client_info": {
+          "package_name": "ittepic.edu.mx.practica_trabajador"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9fDe8CNveO_eycSvD4cr2T5k9Y3xaOlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
